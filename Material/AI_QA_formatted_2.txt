@@ -1,0 +1,3018 @@
+{
+	"tag": "",
+	"patterns":["Who did the first work generally recognized as AI?"],
+	"responses":["Warren McCulloch and Walter Pitts (1943)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What sources was drawn on the formation of the first work generally recognized as AI?"],
+	"responses":["knowledge of the basic physiology and function of neurons in the brain; a formal analysis of propositional logic due to Russell and Whitehead; and Turing's theory of computation."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who created the Hebbian learning rule?"],
+	"responses":["Donald Hebb (1949)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["When the first neural network is built?"],
+	"responses":["1950."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the first neural network called?"],
+	"responses":["The SNARC."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who introduced the Turing test, machine learning, genetic algorithms, and reinforcement learning?"],
+	"responses":["Alan Turing."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Alan Turing prefer what method on creating human-level Al?"],
+	"responses":["He prefer to develop learning algorithms and then teach the machine rather than by programming its intelligence by hand."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who presented the Logic Theorist (LT)?"],
+	"responses":["Allen Newell and Herbert Simon from Carnegie Tech."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does General Problem Solver (GPS) is designed for?"],
+	"responses":["GPS was designed from the start to imitate human problem-solving protocols."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Which model was robably the first program to embody the “thinking humanly” approach?"],
+	"responses":["General Problem Solver (GPS)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who formulate the famous physical symbol system hypothesis?"],
+	"responses":["Allen Newell and Herbert Simon."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does physical symbol system hypothesis states?"],
+	"responses":["a physical symbol system has the necessary and sufficient means for general intelligent action."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who constructed the Geometry Theorem Prover?"],
+	"responses":["Herbert Gelernter (1959)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who, on checkers, thereby disproved the idea that computers can do only what they are told to?"],
+	"responses":["Arthur Samuel"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who defined the high-level language Lisp?"],
+	"responses":["John McCarthy."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Whatlanguage, in 1958, has become the dominant Al programming language for the next 30 years?"],
+	"responses":["Lisp"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["who discovered a complete theorem-proving algorithm for first-order logic in 1965?"],
+	"responses":["J. A. Robinson's"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Which program in 1963 was able to solve closed-form calculus integration problems typical of MIT's first-year college courses?"],
+	"responses":["James Slagle's Saint program"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the most famous microworld?"],
+	"responses":["The blocks world."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the perceptron convergence theorem say?"],
+	"responses":["The theorem says that the learning algorithm can adjust the connection strengths of a perceptron to match any input data, provided such a match exists."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the book Preceptrons (1969) mentioned?"],
+	"responses":["Although perceptrons (a simple form of neural network) could be shown to learn anything they were capable of representing, they could represent very little. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the weak methods in 1969?"],
+	"responses":["a general-purpose search mechanism trying to string together elementary reasoning steps to find complete solutions."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why weak methods in 1969 are called weak methods?"],
+	"responses":["They do not scale up to large or difficult problem instances."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why is the DENDRAL program powerful, according to its authors?"],
+	"responses":["It embodied the relevant knowledge of mass spectroscopy not in the form of first principles but in efficient “cookbook recipes” (Feigenbaum et al., 1971). "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Which program is the first successful knowledge-intensive system?"],
+	"responses":["The DENDRAL program."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does knowledge-intensive system mean?"],
+	"responses":["A system that its expertise derived from large numbers of special-purpose rules."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the content of the Heuristic Programming Project (HPP)?"],
+	"responses":["It is to investigate the extent to which the new methodology of expert systems could be applied to other areas."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What function does MYCIN system contribute in?"],
+	"responses":["diagnosing blood infections."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the major differences between MYCIN and DENDRAL?"],
+	"responses":["First, unlike the DENDRAL rules, no general theoretical model existed from which the Mycin rules could be deduced. Second, the rules had to reflect the uncertainty associated with medical knowledge."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What calculus of uncertainty does MYCIN incorporated?"],
+	"responses":["certainty factors."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How is the performance of certainty factors in MYCIN?"],
+	"responses":["It seemed (at the time) to fit well with how doctors assessed the impact of evidence on the diagnosis."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Which system is the first successful commercial expert system?"],
+	"responses":["R1."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Where does the first successful commercial expert system began operation?"],
+	"responses":["The Digital Equipment Corporation (McDermott, 1982)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does robust language understanding requires?"],
+	"responses":["general knowledge about the world and a general method for using that knowledge."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does Minsky's idea of frames (1975) implies?"],
+	"responses":["assembling facts about particular object and event types and arranging the types into a large taxonomic hierarchy analogous to a biological taxonomy."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the content of the “Fifth Generation” project announced by the Japanese government in 1981?"],
+	"responses":["A 10-year plan to build massively parallel, intelligent computers running Prolog. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What caused the "AI winter"?"],
+	"responses":["Many companies fell by the wayside as they failed to deliver on extravagant promises."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why, after 1988, it turned out to be difficult to build and maintain expert systems for complex domains?"],
+	"responses":["In part becausethe reasoning methods used by the systems broke down in the face of uncertainty and in part because the systems could not learn from experience."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who described symbols as the “luminiferous aether of Al”?"],
+	"responses":["Geoff Hinton"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does “luminiferous aether of Al” by Geoff Hinton mean?"],
+	"responses":["A reference to the non-existent medium through which many 19th-century physicists believed that electromagnetic waves propagated."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How is the connectionist models better suited to the messiness of the real world?"],
+	"responses":["It forms internal concepts in a more fluid and imprecise way."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What approach does the brittleness of expert systems led to?"],
+	"responses":["It is an approach incorporating probability rather than Boolean logic, machine learning rather than hand-coding, and experimental results rather than philosophical claims."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What approach dominate the field of speech recognition?"],
+	"responses":["The approach using hidden Markov models (HMMs)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the characteristics of HMMs in the feild of speech recognition?"],
+	"responses":["First, they are based on a rigorous mathematical theory. Second, they are generated by a process of training on a large corpus of real speech data. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Which year is an important year for the connection between Al and other fields?"],
+	"responses":["1988"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["In 1998, what fields does AI connected to?"],
+	"responses":["statistics, operations research, decision theory, and control theory."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Whose research led to a new acceptance of probability and decision theory in Al?"],
+	"responses":["Judea Pearl's (1988)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does Pearl's development of Bayesian networks yielded?"],
+	"responses":["It yielded a rigorous and efficient formalism for representing uncertain knowledge as well as practical algorithms for probabilistic reasoning"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What major contribution is done by Rich Sutton in 1988?"],
+	"responses":["connecting reinforcement learning to the theory of Markov decision processes (MDPs) developed in the field of operations research."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What kind of advances facilitated the big data phenomenon?"],
+	"responses":["Remarkable advances in computing power and the creation of the World Wide Web."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who argued that the improvement in performance obtained from increasing the size of the data set by two or three orders of magnitude outweighs any improvement that can be obtained from tweaking the algorithm?"],
+	"responses":["Banko and Brill (2001)"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who developed a clever method for filling in holes in photographs by blending in pixels from similar images?"],
+	"responses":["Hays and Efros (2007)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the term deep learning refers to?"],
+	"responses":["It refers to machine learning using multiple layers of simple, adjustable computing elements."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What method do experiments found some success in handwritten digit recognition in the 1990s?"],
+	"responses":["convolutional neural networks."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How does deep network contribute to ALPHAGO's victories over the leading human Go players?"],
+	"responses":["representing the evaluation function."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the mean for Ford (2018) interviews of AI experts in the question of when (if ever) will AI systems achieve human-level performance across a broad variety of tasks?"],
+	"responses":["2099"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What system does U.S. forces deployed to do automated logistics planning and scheduling for transportation?"],
+	"responses":[" a Dynamic Analysis and Replanning Tool, Dart."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What AI system defeated world chess champion Garry Kasparov in 1997?"],
+	"responses":["Deep Blue"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What AI system defeated the world GO champion Ke Jie?"],
+	"responses":["ALPHAGO"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What ALPHAZERO can do?"],
+	"responses":["It used no input from humans (except for the rules of the game), and was able to learn through self-play alone to defeat all opponents, human and machine, at Go, chess, and shogi "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the deep learning model, which won the 2018 Gordon Bell Prize, do?"],
+	"responses":["It discovers detailed information about extreme weather events that were previously buried in climate data."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who noted that the “mechanical arts are of ambiguous use, serving as well for hurt as for remedy”?"],
+	"responses":["Francis Bacon"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Where does the statement “mechanical arts are of ambiguous use, serving as well for hurt as for remedy” be noted?"],
+	"responses":["The Wisdom of the Ancients (1609)"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who suggested that “First solve Al, then use Al to solve everything else.”?"],
+	"responses":["Demis Hassabis, CEO of Google DeepMind."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How does United Nations define "Lethal Autonomous Weapons"?"],
+	"responses":["weapons that can locate, select, and eliminate human targets without human intervention."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What possible risks we might face on devoloping AI?"],
+	"responses":["Lethal Autonomous Weapons, surveillance and persuasion, biased decision making, impact on employment, safety-critical applications, cybersecurity and so on."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who reminded that the field of those broader goals and warned that the subfields were in danger of becoming ends in themselves?"],
+	"responses":["Nils Nilsson (1995)"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who was motivated to consider the long-term future of Al after seeing Arthur Samuel's checker-playing program learn to beat its creator?"],
+	"responses":["Norbert Wiener"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the Kind Midas problem implies?"],
+	"responses":["Midas, a legendary King in Greek mythology, asked that everything he touched should turn to gold, but then regretted it after touching his food, drink, and family members."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of agent?"],
+	"responses":["anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What the word percept refer to?"],
+	"responses":["It refer to the content an agent's sensors are perceiving."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is an agent's percept sequence?"],
+	"responses":["the complete history of everything the agent has ever perceived."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["In general, what does an agent's choice of action at any given instant depend on?"],
+	"responses":["It can depend on its built-in knowledge and on the entire percept sequence observed to date, but not on anything it hasn't perceived."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What can we say mathematically on an agent's behavior?"],
+	"responses":["An agent's behavior is described by the agent function that maps any given percept sequence to an action."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How AI is stucked to consequentialism?"],
+	"responses":["We evaluate an agent's behavior by its consequences."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we capture the desirability related to consequentialism of an AI model?"],
+	"responses":["It can be captured by a performance measure that evaluates any given sequence of environment states."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the difference on desirability between human and machine?"],
+	"responses":["Human measures it from their point of view, while machine do not have desires and preferences of their own."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Who warns to ensure that “the purpose put into the machine is the purpose which we really desire”?"],
+	"responses":["Norbert Wiener."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How, better, should we design performance measurers for AI?"],
+	"responses":["according to what one actually wants to be achieved in the environment."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the King Midas problem inspire us?"],
+	"responses":["We must accept the possibility that we might put the wrong purpose into the machine."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What can the definition of rational depends on?"],
+	"responses":["The performance measure that defines the criterion of success; The agent's prior knowledge of the environment; The actions that the agent can perform; The agent’s percept sequence to date."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the difference of omniscience from rationality?"],
+	"responses":["An omniscient agent knows the actual outcome of its actions and can act accordingly; but omniscience is impossible in reality."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the relationship between rationality and perfection?"],
+	"responses":["Rationality maximizes expected performance, while perfection maximizes actual performance."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What information gathering means?"],
+	"responses":["Doing actions in order to modify future percepts."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How we will say that an agent lacks autonomy?"],
+	"responses":["An agent relies on the prior knowledge of its designer rather than on its own percepts and learning processes."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does an autonomous rational agent do?"],
+	"responses":["It should learn what it can to compensate for partial or incorrect prior knowledge."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is task environments?"],
+	"responses":["They are essentially the “problems” to which rational agents are the “solutions.”"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is PEAS description?"],
+	"responses":["Specify the performance measure, the environment, and the agent's actuators and sensors under the heading of the task environment."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What we can do as the range of task environments that might arise in Al is obviously vast?"],
+	"responses":["We can identify a fairly small number of dimensions along which task environments can be categorized."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What dimensions we can indentify on task environments?"],
+	"responses":["Fully observable vs. partially observable; single-agent vs. multiagent; deterministic vs. nondeterministic; episodic vs. sequential; static vs. dynamic; discrete vs. continuous; known vs. unknown"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we say a task environment is fully observable?"],
+	"responses":["an agent's sensors give it access to the complete state of the environment at each point in time."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we say a task environment is deterministic?"],
+	"responses":["The next state of the environment is completely determined by the current state and the action executed by the agent(s)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What task environment makes an agent need not worry about uncertainty?"],
+	"responses":["fully observable and deterministic."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the difference between stochastic and nondeterministic?"],
+	"responses":["We say that a model of the environment is stochastic if it explicitly deals with probabilities (e.g., “there's a 25% chance of rain tomorrow”) and “nondeterministic” if the possibilities are listed without being quantified (e.g., “there's a chance of rain tomorrow”)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we say a task environment is episodic?"],
+	"responses":["The agent's experience is divided into atomic episodes, which in each episode the agent receives a percept and then performs a single action. Crucially, the next episode does not depend on the actions taken in previous episodes."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we say a task environment is sequential?"],
+	"responses":["The current decision of agent could affect all future decisions."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the examples of episodic and sequential task environments?"],
+	"responses":["Many classification tasks are episodic; Chess and taxi driving are sequential."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why episodic environments are much simpler than sequential environments?"],
+	"responses":["The agent does not need to think ahead."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we say a task environment is dynamic for that agent?"],
+	"responses":["The environment can change while an agent is deliberating."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we say a task environment is static for that agent?"],
+	"responses":["The environment cannot change while an agent is deliberating."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why static task envrionments are easy to deal with?"],
+	"responses":["The agent need not keep looking at the world while it is deciding on an action, nor need it worry about the passage of time."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we say a task environment is semidynamic?"],
+	"responses":["The environment itself does not change with the passage of time but the agent's performance score does."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the examples of dynamic, semidynamic and static task environments?"],
+	"responses":["Taxi driving is clearly dynamic; Chess, when played with a clock, is semidynamic; Crossword puzzles are static."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the differences between discrete and continuous task environments?"],
+	"responses":["The state of the environment, to the way time is handled, and to the percepts and actions of the agent."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the examples of discrete and continuous task environments?"],
+	"responses":["Chess has a finite number of distinct states (excluding the clock), and a discrete set of percepts and actions; Taxi driving is a continuous-state and continuous-time problem."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does a known / unknown task environment refers to?"],
+	"responses":[" The agent's (or designer's) state of knowledge about the “laws of physics” of the environment."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we say a task environment is known?"],
+	"responses":["The outcomes (or outcome probabilities if the environment is nondeterministic) for all actions are given."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we say a task environment is unknown?"],
+	"responses":["The agent will have to learn how it works in order to make good decisions."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is an example of partially observable and known task environment?"],
+	"responses":["In solitaire card games, I know the rules but am still unable to see the cards that have not yet been turned over."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is an example of fully observable and unknown task environment?"],
+	"responses":["In a new video game, the screen may show the entire game state but I still don't know what the buttons do until I try them."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What kind of task environment should be the hardest case?"],
+	"responses":["partially observable, multiagent, nondeterministic, sequential, dynamic, continuous, and unknown."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is an agent function?"],
+	"responses":["The mapping from percepts to actions."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the agent architecture?"],
+	"responses":["A program will run on some sort of computing device with physical sensors and actuators"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What the architecture does to a program?"],
+	"responses":["In general, the architecture makes the percepts from the sensors available to the program, runs the program, and feeds the program's action choices to the actuators as they are generated."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the four basic kinds of agent programs that embody the principles underlying almost all intelligent systems?"],
+	"responses":["Simple reflex agents; Model-based reflex agents; Goal-based agents; and Utility-based agents."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does simple reflex agents do?"],
+	"responses":["These agents select actions on the basis of the current percept, ignoring the rest of the percept history."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does condition-action rule similar to?"],
+	"responses":["if-then statements."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the more general and flexible approach for simple reflex agent?"],
+	"responses":["Firstly build a general-purpose interpreter for condition-action rules and then to create rule sets for specific task environments."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can a simple reflex agen escape from infinite loops?"],
+	"responses":["The agent can randomize its actions."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is better instead of allowing simple reflex agents to randomize its actions?"],
+	"responses":["A more sophisticated deterministic agent."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the most effective way to handle partial observability for the agent?"],
+	"responses":["The agent should maintain some sort of internal state that depends on the percept history and thereby reflects at least some of the unobserved aspects of the current state. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What kind of knowledge is required in updating model-based reflex agents' internal state information as time goes by?"],
+	"responses":["First, we need some information about how the world changes over time. Second, we need some information about how the state of the world is reflected in the agent's percepts."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How the information about how the world changes over time in model-based reflex agent can be divided?"],
+	"responses":["The effects of the agent's actions and how the world evolves independently of the agent."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the knowledge about “how the world works” is called?"],
+	"responses":["The transition model of the world."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is sensor model in model-based reflex agent?"],
+	"responses":["A kind of knowledge, which is some information about how the state of the world is reflected in the agent's percepts."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of model-based reflex agent?"],
+	"responses":["An agent using transition model and sensor model."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How transition model and sensor model function in model-based reflex agent?"],
+	"responses":["allow an agent to keep track of the state of the world."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Which part in model-based reflex agent's structure is interesting?"],
+	"responses":["The function which is responsible for creating the new internal state description."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the model-based reflex agent's knowing of the current world actually is?"],
+	"responses":["It represents the agent's “best guess”, as regardless of the kind of representation used, it is seldom possible for the agent to determine the current state of a partially observable environment exactly."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does goal information do to agents?"],
+	"responses":["It describes situations that are desirable."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How a goal-based agent appears being more flexible?"],
+	"responses":["It may appears less efficient."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why economists and computer scientists use the term utility instead?"],
+	"responses":["It is because it sounds more scientific then words like "happy"."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What will happen if the internal utility function and the external performance measure are in agreement?"],
+	"responses":["An agent that chooses actions to maximize its utility will be rational according to the external performance measure."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does a utility function do when there are conflicting goals?"],
+	"responses":["It specifies the appropriate tradeoff."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does a utility function do when there are several goals that the agent can aim for?"],
+	"responses":["It provides a way in which the likelihood of success can be weighed against the importance of the goals."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we say technically about a rational utility-based agent?"],
+	"responses":["It chooses the action that maximizes the expected utility of the action outcomes—that is, the utility the agent expects to derive, on average, given the probabilities and utilities of each outcome. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What will happen if an agent possesses an explicit utility function?"],
+	"responses":["It can make rational decisions with a general-purpose algorithm that does not depend on the specific utility function being maximized."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is hard in utility-based function?"],
+	"responses":["A utility-based agent has to model and keep track of its environment; Choosing the utility-maximizing course of action."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the advantage for agent to learn?"],
+	"responses":["It allows the agent to operate in initially unknown environments and to become more competent than its initial knowledge alone might allow."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the conceptual components for a learning agent?"],
+	"responses":["Learning element; Performance element; Critic; Problem Generator."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the learning element in the components for a learning agent do?"],
+	"responses":["It is responsible for making improvements."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the performance element in the components for a learning agent do?"],
+	"responses":["It is responsible for selecting external actions."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the critic in the components for a learning agent do?"],
+	"responses":["The critic tells the learning element how well the agent is doing with respect to a fixed performance standard."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How should we think when we are trying to design an agent that learns a certain capability?"],
+	"responses":["The first question is not “How am I going to get it to learn this?” but “What kind of performance element will my agent use to do this once it has learned how?” "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why critic is necessary for a learning agent?"],
+	"responses":["The percepts themselves provide no indication of the agent's success. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the problem generator in the components for a learning agent do?"],
+	"responses":["It is responsible for suggesting actions that will lead to new and informative experiences."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What will happen if an agent is willing to explore a little and do some perhaps suboptimal actions in the short run?"],
+	"responses":["It might discover much better actions for the long run."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is needed when we are trying to learn a reflex component or a utility function?"],
+	"responses":["Information from the external standard."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the performance standard distinguishes part of the incoming percept as?"],
+	"responses":["A reward or penalty that provides direct feedback on the quality of the agent's behavior."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we rank the representations of task environments in their expressiveness?"],
+	"responses":["Atomic, factored and structured."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does a particular agent component that deals with “What my actions do” do?"],
+	"responses":["It describes the changes that might occur in the environment as the result of taking an action, and Figure 2.16!2 provides schematic depictions of how those transitions might be represented."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What happens in an atomic representation?"],
+	"responses":["Each state of the world is indivisible—it has no internal structure."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the examples of areas work with atomic representations?"],
+	"responses":["Search and game-playing, hidden Markov models and Markov decision processes."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does a factored representation do?"],
+	"responses":["It splits up each state into a fixed set of variables or attributes, each of which can have a value."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the examples of areas work with factored representations?"],
+	"responses":["Constraint satisfaction algorithms, propositional logic, planning, Bayesian networks and various machine learning algorithms."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What happens in a structured representation?"],
+	"responses":["Objects and their various and varying relationships can be described explicitly"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["When we need the structured representation?"],
+	"responses":["When we need to understand the world as having things in it that are related to each other, not just variables with values."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the examples of areas work with structured representations?"],
+	"responses":["Relational databases and first-order logic, first-order probability models, and much of natural language understanding."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How reasoning and learning changes following to the expressive power of the representation of an agent's environment?"],
+	"responses":["Reasoning and learning become more complex as the expressive power of the representation increases."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we gain the benefits of expressive representations of agent environments while avoiding their drawbacks?"],
+	"responses":["Intelligent systems for the real world may need to operate at all points along the axis simultaneously"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What happens in a localist representation?"],
+	"responses":["There is a one-to-one mapping between concepts and memory locations."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What happens in a distributed representation?"],
+	"responses":["The representation of a concept is spread over many memory locations, and each memory location is employed as part of the representation of multiple different concepts."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Which representations are more robust against noise and information loss, localist one or distributed one?"],
+	"responses":["Distributed representations."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What bad situation might happen using localist representations?"],
+	"responses":["The mapping from concept to memory location is arbitrary, and if a transmission error garbles a few bits, we might confuse Truck with the unrelated concept Truce."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of problem-solving agent?"],
+	"responses":["An agent that need to plan ahead: to consider a sequence of actions that form a path to a goal state."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of search?"],
+	"responses":["The computational process that a problem-solving agent undertakes."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What representations do Problem-solving agents use?"],
+	"responses":["Atomic representations."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What happens to informed algorithms?"],
+	"responses":["The agent can estimate how far it is from the goal."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What happens to uninformed algorithms?"],
+	"responses":["The agent cannot estimate how far it is from the goal."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the four-phrase problem-solving process?"],
+	"responses":["Goal formulation; problem formulation; Search; Execution."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What an agent does in goal formulation phase?"],
+	"responses":["The agent adopts the goal of a task."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How does the goals act in an agent's goal formulation phase?"],
+	"responses":["Goals organize behavior by limiting the objectives and hence the actions to be considered."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What an agent does in problem formulation phase?"],
+	"responses":["The agent devises a description of the states and actions necessary to reach the goal—an abstract model of the relevant part of the world."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What an agent does in search phase?"],
+	"responses":["Before taking any action in the real world, the agent simulates sequences of actions in its model, searching until it finds a sequence of actions that reaches the goal. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of solution for problem-solving agent?"],
+	"responses":["A sequence of actions that reaches the goal."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What an agent does in execution phase?"],
+	"responses":["The agent excute the actions in the solution, one at a time."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How is the solution in a fully observable, deterministic, known environment?"],
+	"responses":["The solution to any problem is a fixed sequence of actions."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What open-loop system is by the control theorists?"],
+	"responses":["A system ignoring the percepts breaks the loop between agent and environment."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Which loop is more safer for a problem-solving agent, open-loop or closed-loop?"],
+	"responses":["Closed-loop approach."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How is the solution in a partially observable or nondeterministic environment?"],
+	"responses":["A solution would be a branching strategy that recommends different future actions depending on what percepts arrive."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of the state space?"],
+	"responses":["A set of possible states that the environment can be in."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of the initial state?"],
+	"responses":["The state that the agent starts in."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of the goal states?"],
+	"responses":["A set of states that are goals to the agent."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of transition model to problem-solving agent?"],
+	"responses":["A model which describes what each action does."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of action cost function?"],
+	"responses":["A function reflects an agent's own performance measure."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of a search "problem"?"],
+	"responses":["The combination of a state space, an initial state, one or more goal states, transition models and action cost functions."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of an optimal solution?"],
+	"responses":["The solution having the lowest path cost."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the possible meaning of model?"],
+	"responses":["An abstract mathematical description, which is not the real thing."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of abstraction?"],
+	"responses":["The process of removing detail from a representation."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we say an abstraction is good?"],
+	"responses":["It involves removing as much detail as possible while retaining validity and ensuring that the abstract actions are easy to carry out."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What will happen if we don't have the ability to construct useful abstractions?"],
+	"responses":["The intelligent agents would be completely swamped by the real world."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of standardized problem?"],
+	"responses":["It is intended to illustrate or exercise various problem-solving methods."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can researchers use a standardized problem?"],
+	"responses":["A standardized problem is suitable as a benchmark for researchers to compare the performance of algorithms."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of real-world problem?"],
+	"responses":["It is one whose solutions people actually use, and whose formulation is idiosyncratic, not standardized."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a grid world problem?"],
+	"responses":["It is a two-dimensional rectangular array of square cells in which agents can move from cell to cell."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What agents can do to objects in cells in a grid world problem?"],
+	"responses":["Cells can contain objects, which the agent can pick up, push, or otherwise act upon."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What wall or impassible obstacles do in a grid world problem?"],
+	"responses":["Those things in a cell prevents an agent from moving into that cell."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the example of a grid world problem?"],
+	"responses":["Sokoban puzzle."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a sokoban puzzle?"],
+	"responses":["It is a puzzle that the agent's goal is to push a number of boxes, scattered about the grid, to designated storage locations. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a sliding-tile puzzle?"],
+	"responses":["It is a puzzle that a number of tiles (sometimes called blocks or pieces) are arranged in a grid with one or more blank spaces so that some of the tiles can slide into the blank space."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a touring problem?"],
+	"responses":["It is a problem that describes a set of locations that must be visited, rather than a single goal destination."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the traveling salesperson problem (TSP)?"],
+	"responses":["It is a touring problem in which every city on a map must be visited."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does a VLSI layout problem requires?"],
+	"responses":["It requires positioning millions of components and connections on a chip."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does a VLSI layout problem aims to?"],
+	"responses":["It aims to minimize area, minimize circuit delays, minimize stray capacitances, and maximize manufacturing yield."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How does the VLSI layout problem be splited?"],
+	"responses":["It is split into two parts: cell layout and channel routing."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the difference of robot navigation from following distinct paths?"],
+	"responses":["A robot can roam around, in effect making its own paths."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What problem do real robots must also deal with in robot navigation?"],
+	"responses":["Their sensor readings and motor controls, with partial observability, and with other agents that might alter the environment."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Since when does the automatic assembly sequencing of complex objects (such as electric motors) by a robot have been standard industry practice?"],
+	"responses":["1970s."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is protein design?"],
+	"responses":["It is an assembly problem, in which the goal is to find a sequence of amino acids that will fold into a three-dimensional protein with the right properties to cure some disease."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the definition of search algorithm?"],
+	"responses":["A search algorithm takes a search problem as input and returns a solution, or an indication of failure."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does a node in a search tree corresponds to?"],
+	"responses":["A state in the state space."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does an edge in a search tree corresponds to?"],
+	"responses":["An action."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the root in a search tree corresponds to?"],
+	"responses":["The initial state of the problem."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the distinction of the state space from the search tree?"],
+	"responses":["The state space describes the (possibly infinite) set of states in the world, and the actions that allow transitions from one state to another. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the distinction of the search tree from the state space?"],
+	"responses":["The search tree describes paths between these states, reaching towards the goal. The search tree may have multiple paths to (and thus multiple nodes for) any given state, but each node in the tree has a unique path back to the root (as in all trees)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the process of expanding a node?"],
+	"responses":["We can expand the node, by considering the available actions for that state, see where those actions lead to, and generating a new node (called a child node or successor node) for each of the resulting states."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["If A is a child node of B, what B is of A?"],
+	"responses":["Parent node."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the essence of search?"],
+	"responses":["Following up one option now and putting the others aside for later."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can we say a node is reached?"],
+	"responses":["The node has had a node generated for it."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is best-first search?"],
+	"responses":["We choose a node, n, with minimum value of some evaluation function, f(n)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is node?"],
+	"responses":["A node in the tree is represented by a data structure with four components: State; Parent; Action; Path cost."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the componenets of a node?"],
+	"responses":["State; Parent; Action; Path cost."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is queue?"],
+	"responses":["A data structure used to store the frontier."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the possible operations on a frontier?"],
+	"responses":["check whether it is empty; remove the top node; return the top node; insert node into proper place"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a priority queue?"],
+	"responses":["A kind of queue which first pops the node with the minimum cost according to some evaluation function, f."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Where does a priority queue might be used?"],
+	"responses":["It is used in best-first search."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a first-in-first-out (FIFO) queue?"],
+	"responses":["A kind of queue which  first pops the node that was added to the queue first."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Where does a FIFO queue might be used?"],
+	"responses":["It is used in breadth-first search."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a last-in-first-out (LIFO) queue?"],
+	"responses":["A kind of queue which  first pops the node that was added most recently to the queue."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Where does a LIFO queue might be used?"],
+	"responses":["It is used in depth-first search."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the example of loopy path in a search?"],
+	"responses":["The search goes repeatedly between two states."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["what is the possible consequence if loopy path occurs in a search?"],
+	"responses":["The complete search tree is infinite."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What should be eliminated in the search?"],
+	"responses":["Redundant paths."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What possible methods can be used to eliminate redundant paths?"],
+	"responses":["Remember all previously reached states to detect redundant paths; do not consider it for minor problem formulations; only check for cycles but not for redundant paths in general."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a graph search?"],
+	"responses":["A search algorithm which checks for redundant paths."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a tree-like search?"],
+	"responses":["A search algorithm which does not check for redundant paths."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is an example of graph search algorithm?"],
+	"responses":["The Brst-First-Search algorithm."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the evaluation methods on an algorithm’s performance?"],
+	"responses":["Completeness; Cost optimality; Time complexity; Space complexity."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does Completeness evaluates specificly on an algorithm's performance?"],
+	"responses":["Is the algorithm guaranteed to find a solution when there is one, and to correctly report failure when there is not?"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does Cost optimality evaluates specificly on an algorithm's performance?"],
+	"responses":["Does it find a solution with the lowest path cost of all solutions?"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does Time complexity evaluates specificly on an algorithm's performance?"],
+	"responses":["How long does it take to find a solution? This can be measured in seconds, or more abstractly by the number of states and actions considered."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does Space complexity evaluates specificly on an algorithm's performance?"],
+	"responses":["How much memory is needed to perform the search?"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What kind of search algorithm will be complete?"],
+	"responses":["A search algorithm which is systematic in the way it explores an infinite state space, making sure it can eventually reach any state that is connected to the initial state."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What evaluation methods on an algorithm’s performance are considered with respect to some measure of the problem difficulty?"],
+	"responses":["Time and space complexity."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What variables can we use in measuring the complexity of an algorithm?"],
+	"responses":["d, the depth; m, the maximum number of actions in any path; b, the branching factor"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is an informed search strategy?"],
+	"responses":["One that uses domain-specific hints about the location of goals."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is heuristic function?"],
+	"responses":["The estimated cost of the cheapest path from the state at node n to a goal state."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is Greedy best-first search?"],
+	"responses":["Greedy best -first search is a form of best-first search that expands first the node with the lowest value on the grounds that this is likely to lead to a solution quickly."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why the algorithm is called “greedy”?"],
+	"responses":["On each iteration it tries to get as close to a goal as it can, but greediness can lead to worse results than being careful."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is A* search?"],
+	"responses":["A* search is a best-first search that uses the evaluation function f(n) = g(n) + h(n)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is g(n)?"],
+	"responses":["g(n) is the path cost from the initial state to node n."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is f(n)?"],
+	"responses":["f(n) is the estimated cost of the best path that continues from n to a goal."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the properties of A* search?"],
+	"responses":["A* search is complete, cost-optimal, and optimally efficient."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the drawback of A* search?"],
+	"responses":["A* search uses a lot of space and memory."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is an admissible heuristic?"],
+	"responses":["An admissible heuristic is one that never overestimates the cost to reach a goal. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a contour?"],
+	"responses":["A contour is a useful way to visualize a search by drawing it in the state space."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Does uniform-cost search has contours?"],
+	"responses":["Yes, but it is of g-cost, not g+h."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the contours with uniform-cost search look like?"],
+	"responses":["The contours with uniform-cost search will be “circular” around the start state, spreading out equally in all directions with no preference towards the goal. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is satisficing solutions?"],
+	"responses":["Satisficing solutions are when we accept solutions that are suboptimal, but are “good enough”."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is bounded suboptimal search?"],
+	"responses":["We look for a solution that is guaranteed to be within a constant factor W of the optimal cost."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Which algorith provides bounded suboptimal search?"],
+	"responses":["Weighted A* provides bounded suboptimal search."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is bounded-cost search?"],
+	"responses":["We look for a solution whose cost is less than some constant C."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is unbounded-cost search?"],
+	"responses":["We accept a solution of any cost, as long as we can find it quickly."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the example of an unbounded-cost search algorithm?"],
+	"responses":["An example of an unbounded-cost search algorithm is speedy search."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is speedy search?"],
+	"responses":["The speedy search is a version of greedy best-first search that uses as a heuristic the estimated number of actions required to reach a goal, regardless of the cost of those actions."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is Iterative-deepening A* search?"],
+	"responses":["Iterative-deepening A* search (IDA*) is to A* what iterative-deepening search is to depthfirst."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the benefits of Iterative-deepening A* search?"],
+	"responses":["Iterative-deepening A* search gives us the benefits of A* without the requirement to keep all reached states in memory, at a cost of visiting some states multiple times."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is recursive best-first search?"],
+	"responses":["Recursive best-first search attempts to mimic the operation of standard best-first search, but using only linear space."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is beam search?"],
+	"responses":["Beam search puts a limit on the size of the frontier; that makes it incomplete and suboptimal, but it often finds reasonably good solutions and runs faster than complete searches."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How to construct good heuristics?"],
+	"responses":[" One can sometimes construct good heuristics by relaxing the problem definition, by storing precomputed solution costs for subproblems in a pattern database, by defining landmarks, or by learning from experience with the problem class."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How do local search algoritms function?"],
+	"responses":["Local search algorithms operate by searching from a start state to neighboring states, without keeping track of the paths, nor the set of states that have been reached. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Are local search algoritms systematic?"],
+	"responses":["No, they might never explore a portion of the search space where a solution actually resides."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the advantages of local search algorithms?"],
+	"responses":["They use very little memory; and they can often find reasonable solutions in large or infinite state spaces for which systematic algorithms are unsuitable."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is hill-climbing search algorithm?"],
+	"responses":["The hill-climbing search algorithm keeps track of one current state and on each iteration moves to the neighboring state with highest value."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why hill climbing is called greedy local search?"],
+	"responses":["Hill climbing is called greedy local search because it grabs a good neighbor state without thinking ahead about where to go next."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the drawback of hill climbing?"],
+	"responses":["Hill climbing can get stuck when it reaches local maxima, ridges and plateaus."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a local maximum?"],
+	"responses":["A local maximum is a peak that is higher than each of its neighboring states but lower than the global maximum."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a plateau?"],
+	"responses":["A plateau is a flat area of the state-space landscape."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the examples of plauteau?"],
+	"responses":["A plauteau is a flat local maximum, from which no uphill exit exists, or a shoulder, from which progress is possible."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is stochastic hill climbing?"],
+	"responses":["Stochastic hill climbing  chooses at random from among the uphill moves; the probability of selection can vary with the steepness of the uphill move. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is first-choice hill climbing?"],
+	"responses":["A first-choice hill climbing implements stochastic hill climbing by generating successors randomly until one is generated that is better than the current state."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is random-restart hill climbing?"],
+	"responses":["A random-restart hill climbing conducts a series of hill-climbing searches from randomly generated initial states, until a goal is found."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How to get a success hill climbing?"],
+	"responses":["A success hill climbing depends very much on the shape of the state-space landscape: if there are few local maxima and plateaus, random-restart hill climbing will find a good solution very quickly. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is simulated annealing?"],
+	"responses":["A simulated annealing combines hill climbing with a random walk in a way that yields both efficiency and completeness."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is annealing?"],
+	"responses":["Annealing is the process used to temper or harden metals and glass by heating them to a high temperature and then gradually cooling them, thus allowing the material to reach a low-energy crystalline state."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is local beam search?"],
+	"responses":["The local beam search algorithm keeps track of k states rather than just one. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How does the local beam search operate?"],
+	"responses":["It begins with k randomly generated states. At each step, all the successors of all k states are generated. If any one is a goal, the algorithm halts. Otherwise, it selects the k best successors from the complete list and repeats."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is evolutionary algoritms?"],
+	"responses":["Evolutionary algorithms can be seen as variants of stochastic beam search that are explicitly motivated by the metaphor of natural selection in biology."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is genetic algorithm?"],
+	"responses":["Genetic algorithms are similar to stochastic beam search, but with the addition of the crossover operation."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["When is the genetic algorithm advantageous?"],
+	"responses":["Genetic algorithm is advantageous when there are blocks that perform useful functions."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are empirical gradient methods?"],
+	"responses":["Empirical gradient methods are methods that measure progress by the change in the value of the objective function between two nearby points"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a belief state?"],
+	"responses":[" A belief state is a set of physical states that the agent believes are possible."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a sensorless problem?"],
+	"responses":["A sensorless problem is when the agent’s percepts provide no information at all."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are offline search algorithms?"],
+	"responses":["Offline search algorithms compute a complete solution before taking their first action."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are online search algorithms?"],
+	"responses":["Online search algorithms take an action first, then observe the environment and compute the next action. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How is an online search problem solved?"],
+	"responses":["An online search problem is solved by interleaving computation, sensing, and acting. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is competitive ratio?"],
+	"responses":["Competitive ratio is the comparison of the cost with the path cost the agent would incur if it knew the search space in advance."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are dead ends?"],
+	"responses":["Dead ends are states from which no goal state is reachable."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the meaning of safely explorable?"],
+	"responses":["Safely explorable is when some goal state is reachable from every reachable state. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is random walk?"],
+	"responses":["A random walk simply selects at random one of the available actions from the current state"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are competitive environments?"],
+	"responses":["Competitive environments are in which two or more agents have conflicting goals. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is an economy?"],
+	"responses":["An economy is to consider a very large number of agents in the aggregate."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the examples of games that include an element of chance?"],
+	"responses":["The examples are rolling dice or shuffling cards."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the examples of games of imperfect information?"],
+	"responses":["The examples are poker and bridge, where not all cards are visible to all players."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is "perfect information"?"],
+	"responses":["Perfect information is when the game is fully observable."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is "zero-sum"?"],
+	"responses":["“Zero-sum” means that what is good for one player is just as bad for the other: there is no “win-win” outcome."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the formally defined elements of a game?"],
+	"responses":["A game can be formally defined with initial state, turn to ove, action, a utility function, , a terminal test and transition model."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a terminal test?"],
+	"responses":["A terminal test is true when the game is over and false if otherwise."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is terminal states?"],
+	"responses":["Terminal states are states where the game has ended."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a utility function?"],
+	"responses":["A utility function defines the final numeric value to player p when the game ends in terminal state s."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the other names of a utility function?"],
+	"responses":["The other names of a utility function are an objective function or payoff function."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a state space graph?"],
+	"responses":["A state space graph is a graph where the vertices are states, the edges are moves and a state might be reached by multiple paths."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["When do we use minimax search?"],
+	"responses":["We uses minimax search for games with multiple outcome scores."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is ply?"],
+	"responses":["Ply is used to unambiguously mean one move by one player, bringing us one level deeper in the game tree."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the minimax search algorithm?"],
+	"responses":["The minimax search algorithm finds the best move for MAX by trying all actions and choosing the one whose resulting state has the highest MINIMAX value."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Is the minimax search algorithm recursive?"],
+	"responses":["Yes, it is a recursive algorithm that proceeds all the way down to the leaves of the tree and then backs up the minimax values through the tree as the recursion unwinds. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the time complexity for the minimax search algorithm?"],
+	"responses":["The time complexity of the minimax algorithm is O(b^m) if the maximum depth of the tree is m and there are b legal moves at each point."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is alpha–beta pruning?"],
+	"responses":["The alpha–beta pruning is the particular technique when we compute the correct minimax decision without examining every state by pruning large parts of the tree that make no difference to the outcome."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is Type A strategy?"],
+	"responses":["A Type A strategy considers all possible moves to a certain depth in the search tree, and then uses a heuristic evaluation function to estimate the utility of states at that depth. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is Type B strategy?"],
+	"responses":["A Type B strategy ignores moves that look bad, and follows promising lines “as far as possible.”"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the difference between the Type A strategy and Type B strategy?"],
+	"responses":["Type A strategy explores a wide but shallow portion of the tree, whereas Type B strategy explores a deep but narrow portion of the tree."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the example of games with Type A strategy?"],
+	"responses":["Most of the chess programs have been Type A strategy."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the example of games with Type B strategy"],
+	"responses":["Most of the Go programs are more often Type B strategy."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is forward pruning?"],
+	"responses":["A forward pruning prunes moves that appear to be poor moves, but might possibly be good ones. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why we use Monte Carlo tree search?"],
+	"responses":["We use Monte Carlo tree search because  alpha–beta search would be limited to only 4 or 5 ply and , it is difficult to define a good evaluation function for Go."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are sto4chastic games?"],
+	"responses":["Stochastic games bring us a little closer to the unpredictability of real life by including a random element, such as the throwing of dice."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the example of stochastic games?"],
+	"responses":["Backgammon is a typical stochastic game that combines luck and skill. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are partially obsercable games?"],
+	"responses":["Partially observable games  includes the use of scouts and spies to gather information and the use of concealment and bluff to confuse the enemy."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the examples of partially obsercable games?"],
+	"responses":["Video games such as StarCraft is the example of partially obsercable game."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are stochastic partial observable games?"],
+	"responses":["Stochastic partial observable games are where the missing information is generated by the random dealing of cards."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the examples of stochastic partial observable games?"],
+	"responses":["Card games such as bridge, whist, hearts, and poker feature stochastic partial observability."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["When is Monte Carlo search preferred?"],
+	"responses":["When the branching factor is high or it is difficult to define an evaluation function, Monte Carlo search is preferred."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the limitation of alpha–beta search?"],
+	"responses":["The limitation of alpha–beta search is its vulnerability to errors in the heuristic function."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the limitation of Monte Carlo search?"],
+	"responses":["The limitation of Monte Carlo is that it is designed to calculate the values of legal moves. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is metareasoning?"],
+	"responses":["Metareasoning is the kind of reasoning about what computations to do."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a constraint satisfaction problem?"],
+	"responses":["A constraint satisfaction problem is A problem that is solved when each variable has a value that satisfies all the constraints on the variable."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the components of a constraint satisfaction problem?"],
+	"responses":["The three components are a set of variables (X), a set of domains (D), and  a set of constraints that specify allowable combinations of values (C)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a consistent or legal assignment?"],
+	"responses":["A consistent or legal assignment is an assignment that does not violate any constraints."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a complete assignment?"],
+	"responses":["A complete assignment is one in which every variable is assigned a value."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a solution to a CSP?"],
+	"responses":["A solution to a CSP is a consistent, complete assignment."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a partial assignment?"],
+	"responses":["A partial assignment is one that leaves some variables unassigned."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a partial solution?"],
+	"responses":["A partial solution is a partial assignment that is consistent."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why do we formulate a problem as a CSP?"],
+	"responses":["One reason is that the CSPs yield a natural representation for a wide variety of problems; it is often easy to formulate a problem as a CSP."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are linear constraints?"],
+	"responses":["Linear constraints are  constraints in which each variable appears only in linear form. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is unary constraint?"],
+	"responses":["A unary constraint restricts the value of a single variable. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a global constraint?"],
+	"responses":["A global constraint is a constraint involving an arbitrary number of variables."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is constraint propagation?"],
+	"responses":["It is using the constraints to reduce the number of legal values for a variable, which in turn can reduce the legal values for another variable, and so on. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is node-consistency?"],
+	"responses":["A single variable is node-consistent if all the values in the variable’s domain satisfy the variable’s unary constraints. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is arc-consistent?"],
+	"responses":["A variable in a CSP is arc-consistent if every value in its domain satisfies the variable’s binary constraints. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the example of algorithm that enforce arc consistency?"],
+	"responses":["The most popular algorithm for enforcing arc consistency is called AC-3. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What can path consistency do?"],
+	"responses":["Path consistency tightens the binary constraints by using implicit constraints that are inferred by looking at triples of variables."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is minimum-remaining-values?"],
+	"responses":["Minimum-remaining-value is the idea of choosing the variable with the fewest “legal” values."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What can degree heuristic do?"],
+	"responses":["Degree heuristic attempts to reduce the branching factor on future choices by selecting the variable that is involved in the largest number of constraints on other unassigned variables."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What can the least-constraining-value heuristic do?"],
+	"responses":["The least-constraining-value heuristic prefers the value that rules out the fewest choices for the neighboring variables in the constraint graph."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the policy of backtracking-search algorithm?"],
+	"responses":["The backtracking-search algorithm backs up to the preceding variable and try a different value for it. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a backjumping method?"],
+	"responses":["A backjumping method backtracks to the most recent assignment in the conflict set."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What happens to the algorithm when no legal value is found?"],
+	"responses":["When no legal value is found, the algorithm should return the most recent element of the conflict set along with the failure indicator."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is constraint learning?"],
+	"responses":["Constraint learning is the idea of finding a minimum set of variables from the conflict set that causes the problem."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How can independence be ascertained?"],
+	"responses":["Independence can be ascertained simply by finding connected components of the constraint graph. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a topological sort?"],
+	"responses":["A topological sort is the ordering of picking any variable to be the root of the tree first, and choose an ordering of the variables such that each variable appears after its parent in the tree."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a tree decomposition?"],
+	"responses":["A tree decomposition is a transformation of the original graph into a tree where each node in the tree consists of a set of variable."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the example of the requirements of a tree decomp7osition?"],
+	"responses":["One of the examples is every variable in the original problem appears in at least one of the tree nodes."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is an axiom?"],
+	"responses":["An axiom is the sentencet that is taken as being given without being derived from other sentences."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is an inference?"],
+	"responses":["An inference is deriving new sentences from old."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What requirement should inference obey?"],
+	"responses":[" Inference must obey the requirement that when one asks a question of the knowledge base, the answer should follow from what has been told to the knowledge base previously."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the wumpus world?"],
+	"responses":["The wumpus world is a cave consisting of rooms connected by passageways."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is semantics?"],
+	"responses":["Semantics are the meaning of sentences, which defines the truth of each sentence with respect to each possible world."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is grounding?"],
+	"responses":["Grounding is the connection between logical reasoning processes and the real environment in which the agent exists."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is theorem prooving?"],
+	"responses":["Theorem prooving is applying rules of inference directly to the sentences in our knowledge base to construct a proof of the desired sentence without consulting models. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["When is a sentence valid?"],
+	"responses":["A sentence is valid if it is true in all models. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["When is a sentence satisfiable?"],
+	"responses":["A sentence is satisfiable if it is true in, or satisfied by, some model."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is monotonicity?"],
+	"responses":["A monotonicity says that the set of entailed sentences can only increase as information is added to the knowledge base."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What do the algorithm do in early termination?"],
+	"responses":["The algorithm detects whether the sentence must be true or false, even with a partially completed model."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a pure symbol?"],
+	"responses":["A pure symbol is a symbol that always appears with the ame “sign” in all clauses. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a unit clause?"],
+	"responses":["A unit clause was a clause with just one literal. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is unit propagation?"],
+	"responses":["Unit propagation resembles the process of forward chaining with definite clauses, and indeed, if the CNF expression contains only definite clauses then DPLL essentially replicates forward chaining. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are atemporal variables?"],
+	"responses":["Atemporal variables are symbols associated with permanent aspects of the world that do not need a time superscript."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the representational frame problem?"],
+	"responses":["The representational frame problem is the specific manifestation of the frame problem."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How is knowledge contained?"],
+	"responses":["Knowledge is contained in agents in the form of sentences in a knowledge representation language that are stored in a knowledge base."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why do intelligent agents need knowledge?"],
+	"responses":["Intelligent agents need knowledge about the world in order to reach good decisions."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How is a representation language defined?"],
+	"responses":["A representation language is defined by its syntax, which specifies the structure of sentences, and its semantics, which defines the truth of each sentence in each possible world or model."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why is the relationship of entailment between sentences is crucial?"],
+	"responses":["The relationship of entailment between sentences is crucial to our understanding ofreasoning."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is sound inference?"],
+	"responses":["Sound inference algorithms derive only sentences that are entailed."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are complete algorithms?"],
+	"responses":[" Complete algorithms derive all sentences that are entailed."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is propositional logic?"],
+	"responses":["Propositional logic is a simple language consisting of proposition symbols and logical connectives."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What can propositional logic do?"],
+	"responses":["Propositional logic can handle propositions that are known to be true, known to be false, or completely unknown."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are inference rules?"],
+	"responses":["Inference rules are patterns of sound inference that can be used to find proofs. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the resolution rule?"],
+	"responses":["The resolution rule yields a complete inference algorithm for knowledge bases that are expressed in conjunctive normal form."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the natural reasoning algorithms for knowledge bases in Horn form?"],
+	"responses":[" Forward chaining and backward chaining are very natural reasoning algorithms for knowledge bases in Horn form."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is a logical state estimation?"],
+	"responses":["Logical state estimation involves maintaining a logical sentence that describes the set of possible states consistent with the observation history. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What do each update step of logical state estimation require?"],
+	"responses":["Each update step requires inference using the transition model of the environment, which is built from successorstate axioms that specify how each fluent changes."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How decisions within a logical agent can be made by SAT solving?"],
+	"responses":["It works by finding possible models specifying future action sequences that reach the goal.  "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Why does propositional logic do not scale to environments of unbounded size?"],
+	"responses":["This is because e it lacks the expressive power to deal concisely with time, space, and universal patterns of relationships among objects."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How should knowledge representation languages be?"],
+	"responses":["Knowledge representation languages should be declarative, compositional, expressive, context independent, and unambiguous."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How does logic differs?"],
+	"responses":["Logics differ in their ontological commitments and epistemological commitments."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the difference in propositional logic and first-order logic?"],
+	"responses":["While propositional logic commits only to the existence of facts, first-order logic commits to the existence of objects and relations and thereby gains expressive power, appropriate for domains such as the wumpus world and electronic circuits."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the similarity of propositional logic and first-order logic?"],
+	"responses":["Both propositional logic and first-order logic share a difficulty in representing vague propositions. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How does the difficulty in representing vague  propositions affect both  propositional logic and first-order logic?"],
+	"responses":["The difficulty limits their applicability in domains that require personal judgments, like politics or cuisine."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the syntax of first-order logic does?"],
+	"responses":["It adds terms to represent objects, and has universal and existential quantifiers to construct assertions about all or some of the possible values of the quantified variables."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does a possible world, or model, for first-order logic include?"],
+	"responses":["A possible world, or model, for first-order logic includes a set of objects and an interpretation that maps constant symbols to objects, predicate symbols to relations among objects, and function symbols to functions on objects."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["When is an atomic sentence true?"],
+	"responses":["An atomic sentence is true only when the relation named by the predicate holds between the objects named by the terms. "],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What can extended interpretations do?"],
+	"responses":["Extended interpretations, which map quantifier variables to objects in the model, define the truth of quantified sentences."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the process of developing a knowledge base in first-order logic?"],
+	"responses":["Developing a knowledge base in first-order logic requires a careful process of analyzing the domain, choosing a vocabulary, and encoding the axioms required to support the desired inferences."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is AI?"],
+	"responses":["Artificial Intelligence (AI) is the part of computer science concerned with designing intelligent computer systems."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What do the branches of AI have?"],
+	"responses":["NLP, Expert System, Robotics, ANN, Fuzzy Logics, Machine learing and so on."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the Turing Test?"],
+	"responses":["Alan Turing devised a test for intelligence called the Imitation Game in."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Under what conditions can intelligence be proved to have passed the test?"],
+	"responses":["If, after multiple tests, the intelligence made an average of more than  per cent of errors per participant, it passed the test and was deemed to have human intelligence."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What capabilities would the AI need?"],
+	"responses":["Natural language processing, Knowledge representation, automated reasoning, machine learning."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the cental goals of AI research?"],
+	"responses":["Reasoning, Knowledge representation, Planning, Learning, Natural language processing, Moving and manipulating objects."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is reasoning?"],
+	"responses":["The reasoning is the mental process of deriving logical conclusion and making predictions from available knowledge, facts, and beliefs.nr"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What types of reasoning are there?"],
+	"responses":["Deductive, Inductive, Abductive, Common Sense."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is Deductive reasoning?"],
+	"responses":["Deductive reasoning is deducing new information from logically related known information."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is Inductive reasoning?"],
+	"responses":["Inductive reasoning is a form of reasoning to arrive at a conclusion using limited sets of facts by the process of generalization."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is Abductive reasoning?"],
+	"responses":["Abductive reasoning is a form of logical reasoning which starts with single or multiple observations then seeks to find the most likely explanation or conclusion for the observation."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is Common Sense?"],
+	"responses":["Common sense reasoning is an informal form of reasoning, which can be gained through experiences."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How Intelligence applications should behave?"],
+	"responses":["Intelligence applications are expected to respond to stimulation consistent with traditional responses from humans, given the human capacity for contemplation, judgement and intention."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What three ways of thinking do we need to learn in artificial intelligence?"],
+	"responses":["Introspection, Psychological experiments, brain imaging."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is Itrospection?"],
+	"responses":["Trying to catch our own thoughts as they go by."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is psychological experiments?"],
+	"responses":["Observing a person in action."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is brain imaging?"],
+	"responses":["Observing the brain in action."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is rational behavior?"],
+	"responses":["Doing the right thing!"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the right thing?"],
+	"responses":["It is expected to maximize goal achievement, given the available information."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the advantages of studying AI as rational agent?"],
+	"responses":["It is more general than using logic only, allows extension of the approach with more scientific methodologies."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the main roles that AI plays?"],
+	"responses":["Study the intelligent part concerned with humans. Represent those actions using computers."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is True AI?"],
+	"responses":["True A.I. can improve on past iterations, getting smarter and more aware, allowing it to enhance its capabilities and its knowledge."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What do the currently popular approaches have?"],
+	"responses":["Currently popular approaches include statistical methods, computational intelligence and traditional symbolic play parts designing and developing artificial intelligence."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the relationship among AI, ML, DL."],
+	"responses":["ML is a subset of AI. DL is a subset of ML."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the advantages of AI?"],
+	"responses":["Reduces in human error, help in lessening repetitive work, provides Digital assistance, faster and more accurate decisions."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the disadvantages of AI?"],
+	"responses":["Cost overruns, dearth of talent, lack of practical products, potential for misuse."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is knowledge?"],
+	"responses":["Knowledge is a collection of information about a domain that can be used to solve problems within a domain."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the organization of konwledge?"],
+	"responses":["Wisdom, knowledge, information, data."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is declarative knowledge?"],
+	"responses":["Declarative knowledge is to know about something. It includes concepts, facts, and objects."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is procedural Knowledge?"],
+	"responses":["Procedural knowledge is a type of knowledge which is responsible for knowing how to do something."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is heuristic konwledge?"],
+	"responses":["Heuristic knowledge is rules of thumb based on previous experiences, awareness of approaches, and which are good to work but not guaranteed."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is structural knowledge?"],
+	"responses":["It describes relationships between various concepts and the relationship that exists between concepts or objects."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is Meta-knowledge?"],
+	"responses":["It is not specific to any single domain but aims to describe the structure of the data present in the knowledge systems."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is logical representation?"],
+	"responses":["Logical representation is a language that is free from ambiguity issue."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What categories can logical representation be divided into?"],
+	"responses":["Propositional and predicate."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is proposition?"],
+	"responses":["It is a sentence that is either true or false."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is semantic network?"],
+	"responses":["A semantic network or net -graph structure is used to represent knowledge in patterns of interconnected nodes and arcs."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What do the production rules consist of?"],
+	"responses":["IF(condition) and THEN(action)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the advantages of production rule?"],
+	"responses":["The production rules are expressed in natural language. The production rules are expressed in natural language."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the disadvantages of production rule?"],
+	"responses":["Production rule system does not exhibit any learning capabilities, as it does not store the result of the problem for the future uses.During the execution of the program, many rules may be active hence rule-based production systems are inefficient."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is Knowledge-based System?"],
+	"responses":["A knowledge-based system (KBS) is a form of artificial intelligence (AI) that aims to capture the knowledge of human experts to support decision-making."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is medical expert system?"],
+	"responses":["An expert system is a computer program that represents and reasons with knowledge of some specialist subject with a view to solving problems or giving advice."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What do the typical tasks for expert system have?"],
+	"responses":["The interpretation of data, diagonosis of malfunctionsc, stuctural analysis, planning sequences of actions and predicting the future."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What do the complex decisions invovle?"],
+	"responses":["Complex decisions involve intricate combination of factual and heuristic knowledge."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What do the structure of expert system reflect?"],
+	"responses":["The structure of expert systems reflect the knowledge engineers understanding of the methods of representing knowledge and of how to perform intelligent decision making tasks with the support of a computer based system."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is backward chaining?"],
+	"responses":["Backward chaining starts from the goal and works backward through inference rules to find the required facts that support the goal."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the research strategy of backward chaining reasoning?"],
+	"responses":["Backward chaining reasoning applies a depth-first search strategy."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the backward chaining apply to?"],
+	"responses":["It is suitable for diagnostic, prescription, and debugging application."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is forward chaining?"],
+	"responses":["Forward chaining starts from known facts and applies inference rule to extract more data unit it reaches to the goal."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is the research strategy of forward chaining reasoning?"],
+	"responses":["Forward chaining reasoning applies a breadth-first search strategy."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What does the forward chaining apply to?"],
+	"responses":["It is suitable for the planning, monitoring, control, and interpretation application."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is knowledge engineering?"],
+	"responses":["The process of building an expert system is called knowledge engineering and is done by a knowledge engineer."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is knowledge engineer?"],
+	"responses":["The knowledge engineer is a human with a background in computer science and AI and he knows how to build expert systems."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is knowledge engineering?"],
+	"responses":["Knowledge engineering is the acquisition of knowledge from a human expert or any other source."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is Five-in-row system?"],
+	"responses":["Five-in-row system is normally is implemented as a board game."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is search?"],
+	"responses":["Search is a about exploring alternatives."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are the application of search?"],
+	"responses":["Route finding, Package, Pipe routing, Comparison and classification of protein folds, Pharmaceutical drug design, Design of protein-like molecules."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is category?"],
+	"responses":["Incremental formulation, complete-State formulation, toy problem, real-world problem."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is incremental formulation?"],
+	"responses":["This problem involves operators that augment the state description, starting with an empty state."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is complete-state formulation?"],
+	"responses":["States are independent for each other."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is toy problrm?"],
+	"responses":["A toy problem is intended to illustrate or exercise various problem-solving methods."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is real-word problem?"],
+	"responses":["A real-world problem is one whose solutions people actually care about."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What’re the conditions for searching?"],
+	"responses":["Observable, discrete, known, deterministic."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is observable?"],
+	"responses":["You always know what’s going on currently."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is discrete?"],
+	"responses":["Given any state, there are only finitely many actions to choose from."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is known?"],
+	"responses":["The agent knows which states are reached by performing the corresponding action."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is deterministic?"],
+	"responses":["Each action has exactly one outcome."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What are goodness of a search strategy?"],
+	"responses":["Completeness, time complexity, space complexcity, optimality of the solution."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How to formulate searching?"],
+	"responses":["States, initial state, actions, transition model, goal test, path cost."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is states?"],
+	"responses":["The basic unit for searching."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is initial state?"],
+	"responses":["The state that the agent starts in."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is action?"],
+	"responses":["The operations that you can perform for the current state."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is transition model?"],
+	"responses":["The outcome of actions."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is goal test?"],
+	"responses":["Which determines whether a state is a goal state."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is path cost?"],
+	"responses":["Assign a numeric cost to each path."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How to solve searching problems?"],
+	"responses":["A solution is an action sequence, so search algorithms work by considering various possible action sequences."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What dose a graph consist of?"],
+	"responses":["Nodes and arcs."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What dose the problem space consist of?"],
+	"responses":["A state space, a set of operator."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What’s uninformed Searching?"],
+	"responses":["While searching you have no clue whether one non-goal state is better than any other."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is breadth-first search?"],
+	"responses":["Expand shallowest unexpanded node."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is fringe?"],
+	"responses":["Nodes waiting in a queue to be explored, also called OPEN."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Does breadth-first search always find a solution if one exists?"],
+	"responses":["Yes."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Does breadth-first search always find the best (least-cost) solution?"],
+	"responses":["Yes, when all steps cost equally."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How long breadth-first search will take?"],
+	"responses":["1+b+b^2+b^3+… +b^d (nodes until the solution)"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is depth-first search?"],
+	"responses":["Expand deepest unexpanded node."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Does depth-first search always find a solution if one exists?"],
+	"responses":["No: fails in infinite-depth spaces."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How long depth-first search will take?"],
+	"responses":["O(b^m) with m=maximum depth"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Does depth-first search always find the best (least-cost) solution?"],
+	"responses":["No (It may find a non-optimal goal first)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is iterative deepening search?"],
+	"responses":["Run multiple DFS searches with increasing depth-limits."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Does iterative deepening  search always find a solution if one exists?"],
+	"responses":["Yes."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Does iterative deepening search always find the best (least-cost) solution?"],
+	"responses":["Only if path cost is a non-decreasing function of depth."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How long iterative deepening search will take?"],
+	"responses":["b + (b+b^2) + .......(b+....b^d)  = O(b^d)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["What is uniform-cost search?"],
+	"responses":["Always expand the node on the fringe with minimum cost g(n)."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Does uniform-cost search always find a solution if one exists?"],
+	"responses":["Yes."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["Does uniform-cost search always find the best (least-cost) solution?"],
+	"responses":["Yes, for any step cost ≥ ."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How long uniform-cost search will take?"],
+	"responses":["of nodes with path cost ≤ cost of optimal solution."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How much space does uniform-cost search take to complete the run?"],
+	"responses":["of nodes with path cost ≤ cost of optimal solution."],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How much space does iterative deepening search take to complete the run?"],
+	"responses":["O(bd)"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How much space does depth-first search take to complete the run?"],
+	"responses":["O(bm)"],
+	"context": [ "" ]
+},
+{
+	"tag": "",
+	"patterns":["How much space does breadth-first search take to complete the run?"],
+	"responses":["O(b^d) (keeps every node in memory, either in frontier or on a path to frontier)"],
+	"context": [ "" ]
+}
