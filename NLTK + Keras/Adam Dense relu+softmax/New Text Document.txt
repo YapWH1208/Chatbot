@@ -1,0 +1,4 @@
+50 stupid
+100 stupid
+200 stupid
+500 stupid<x<normal
